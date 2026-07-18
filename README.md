@@ -27,7 +27,7 @@ I designed a structured Excel database to capture each client's personal informa
 
 ## Impact
 
-Client records went from scattered paper notes to a single organized system. What used to require manually compiling a client's details now takes selecting a name from a dropdown and printing — cutting report preparation down to seconds and giving Tunery a consistent, professional document to give clients.
+Client records went from scattered paper notes to a single organized system. What used to require manually compiling a client's details now takes selecting a name from a dropdown and printing while cutting report preparation down to seconds and giving Tunery a consistent, professional document to give clients.
 
 ## Skills Demonstrated
 
